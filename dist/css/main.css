@@ -81,7 +81,7 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("/dist/img/wedding copy.jpg");
+  background: url("../dist/img/wedding_copy.jpg");
   border-radius: 50%;
   border: solid 3px #4311a5;
 }
@@ -378,7 +378,7 @@ main#home h1 {
   }
 
   .menu-branding .portrait {
-    background: url("/dist/img/wedding copy 2.jpg");
+    background: url("../dist/img/wedding_copy_2.jpg");
     width: 150px;
     height: 150px;
   }
